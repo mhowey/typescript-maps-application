@@ -1,6 +1,6 @@
-## First Run -> `npm install`
+## First Run -> `npm install && tsc`
 
-This installs any dependencies that are specified in package.json.
+This installs any dependencies that are specified in package.json. It also does the initial compile of the typescript files.
 
 ## Run the Program -> `npm start`
 
